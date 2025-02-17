@@ -1,4 +1,4 @@
-# Note App
+# Note App Project
 This Note App allows users to create, edit, and manage their notes. It provides features for adding images, customizing text size, and changing text color. It's a simple and efficient way to keep track of important information, ideas, or to-do lists.
 
 Features
